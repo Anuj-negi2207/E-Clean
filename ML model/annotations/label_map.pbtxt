@@ -1,0 +1,64 @@
+item {
+    id: 1
+    name: 'Good'
+}
+
+item {
+    id: 2
+    name: 'BAD'
+}
+
+item {
+    id: 3
+    name: 'IGNORE'
+}
+
+item {
+    id: 4
+    name: 'Household : General'
+}
+
+item {
+    id: 5
+    name: 'Household : Recyclable'
+}
+
+item {
+    id: 6
+    name: 'Household : E-waste'
+}
+
+item {
+    id: 7
+    name: 'Household : Bio-degradable'
+}
+
+item {
+    id: 8
+    name: 'Industrial : General'
+}
+
+item {
+    id: 9
+    name: 'Industrial : Recyclable'
+}
+
+item {
+    id: 10
+    name: 'Industrial : Chemicals'
+}
+
+item {
+    id: 11
+    name: 'Industrial : Health-Hazards'
+}
+
+item {
+    id: 12
+    name: 'Hospital and Labs : Pharmaceutical'
+}
+
+item {
+    id: 13
+    name: 'Hospital and Labs : Regular'
+}

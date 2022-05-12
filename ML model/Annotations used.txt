@@ -1,0 +1,36 @@
+Hospital and Labs
+	Hospital and Labs : Bio-hazardous*
+	Hospital and Labs : Hazardous-Pharmaceutical*
+	Hospital and Labs : Pharmaceutical
+	Hospital and Labs : Regular
+	Hospital and Labs : Sharps*
+
+Household
+	Household : Bio-degradable
+	Household : E-waste
+	Household : Recyclable
+	Household : General
+	
+Industrial 
+	Industrial : General	
+	Industrial : Recyclable	
+	Industrial : Chemicals
+	Industrial : Health-Hazards
+
+If litter is inside a dustbin - 
+	Good/BAD
+
+If not suitable - 
+	IGNORE
+
+
+Reference links - 
+
+
+https://www.downtoearth.org.in/news/environment/recycled-plastic-for-food-packaging-why-the-new-rules-are-shocking-79459#:~:text=The%20Union%20government%2C%20in%20a,recycled%20plastic%20for%20food%20items.&text=The%20use%20of%20recycled%20plastic,any%20developed%20country%2C%20claimed%20Biswas.
+https://www.recyclenow.com/what-to-do-with/medicines-0#:~:text=The%20cardboard%20box%20that%20houses,as%20can%20any%20paper%20inserts.&text=Medicine%20blister%20packs%20can%20be,TerraCycle%20Medicine%20Packet%20Recycling%20Programme.
+https://londonrecycles.co.uk/a-to-z/black-plastic/#:~:text=Black%20bin%20bags%20can't,you%20leave%20the%20bag%20open.
+https://slippersowner.com/can-slippers-be-recycled/
+https://www.cnet.com/home/kitchen-and-household/the-dos-and-donts-of-recycling-all-your-metal-cans/#:~:text=All%20metal%20cans%20are%20recyclable,Canned%20goods
+https://www.conserve-energy-future.com/are-chip-bags-recyclable.php#:~:text=1.-,Chip%20Bags%20are%20Not%20Recyclable,up%20in%20the%20garbage%20can.
+https://recyclecoach.com/recyclepedia/plastic-cutlery/#:~:text=Plastic%20knives%2C%20forks%20and%20spoons,to%20litter%20and%20ocean%20waste.

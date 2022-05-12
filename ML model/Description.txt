@@ -1,0 +1,2 @@
+Inspired from Taco by pedropro, we designed a ML model which detects plastic object. We used 'labelImg' to annotate the images. We build this model using TFLite to make it feasible for mobile applications.
+Accuracy - 39.54 (Training), 18.63 (Test)

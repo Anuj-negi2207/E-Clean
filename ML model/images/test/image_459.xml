@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>image_459.png</filename>
+	<path>C:\Users\asus\Downloads\training\images\test\image_459.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Household : General</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>280</ymin>
+			<xmax>327</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Household : Bio-degradable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>292</ymin>
+			<xmax>253</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+</annotation>
